@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hey there, I'm George. 👋
+
+<p align="center">
+  
+<a href='https://www.linkedin.com/in/george-flores-a84b24157/' target= 'blank_' alt='LinkedIn'> ![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)</a>
+<a href='http://gfloresportfolio.herokuapp.com/' target='blank_' alt= 'portfolio'> ![Portfolio](https://img.shields.io/badge/Github--_.svg?style=social&logo=github)</a>
+
+</p>
 
 <!--
 **lu-gflores/lu-gflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
