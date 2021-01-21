@@ -7,7 +7,7 @@
 
 
 - 🌱 Currently learning Python 
-- 🔭 Reviewing JavaScript and React
+- 🔭 Reviewing JavaScript and Node
 </p>
 
 <!--
