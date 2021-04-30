@@ -6,8 +6,8 @@
 <a href='http://gfloresportfolio.herokuapp.com/' target='blank_' alt= 'portfolio'> ![Portfolio](https://img.shields.io/badge/Github--_.svg?style=social&logo=github)</a>
 
 
-- 🌱 Currently learning Python 
-- 🔭 Reviewing JavaScript and Node
+- 🌱 Exploring Next.js 
+- 🔭 Reviewing JavaScript and React.js
 </p>
 
 <!--
